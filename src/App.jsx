@@ -79,7 +79,7 @@ function App() {
   }, [values]);
 
   return (
-    <div className="w-screen p-2 bg-gradient-to-r from-purple-400 to-blue-500 text-white">
+    <div className="w-screen min-h-screen p-2 bg-gradient-to-r from-purple-400 to-blue-500 text-white">
       <h1 className="text-center text-xl m-4 font-bold">
         Capradosso in festa 2022
       </h1>
